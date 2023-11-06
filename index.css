@@ -1,7 +1,4 @@
 body{
-<<<<<<< HEAD
     background-color: red;
-=======
-    background-color: blue;
->>>>>>> test
-}
+    columns: 2;
+} 
